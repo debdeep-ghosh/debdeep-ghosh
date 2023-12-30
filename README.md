@@ -5,6 +5,8 @@
 
 ![](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif)
 
+![](https://media.giphy.com/media/l0FF56cexcW2JAXCJj/giphy.gif)
+
 ![](https://github.com/debdeep-ghosh/github-grid-snake/blob/main/github-grid-snake.svg)
 
 <!---
