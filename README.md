@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @debdeep-ghosh
-- 🌱 I’m currently learning Nest JS, TS, React, and Clouds
+- 🌱 I’m currently learning Nest JS, TS, React, and Cloud Native
 - 💞️ I’m looking to collaborate on Full-stack applications
 - 📫 How to reach me debdeep.ghosh@tempus.com or debdeepghosh22931@gmail.com
 
